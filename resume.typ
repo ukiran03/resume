@@ -19,10 +19,10 @@
 
 // --- HEADER ---
 #align(center)[
-    #text(size: 18pt, weight: "bold", fill: rgb("#0f172a"))[R. Ushakiran] \
+    #text(size: 18pt, weight: "bold", fill: rgb("#0f172a"))[Ushakiran Reddi] \
     #v(1pt)
     #text(size: 10pt, fill: rgb("#475569"))[
-        Bengaluru, Karnataka | *7569991265* | ushakiranreddi\@gmail.com \
+        Bengaluru, Karnataka | *+91 7569991265* | ushakiranreddi\@gmail.com \
         linkedin.com/in/reddi-ushakiran-7b7332254 | github.com/ukiran03
     ]
 ]
